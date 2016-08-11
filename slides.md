@@ -73,8 +73,8 @@ blog/
 
          +------+
         / \      \
-       / *=\      \====== fits feature
-      /     \  *========= fits master
+       / /=\      \====== fits feature
+      /  *  \  *========= fits master
      /+-+  / \  +-+ \
      ++ +-+   +-+ +-+
 
