@@ -1,3 +1,9 @@
+# Me
+
+Alexey Kotlyarov
+@koterpillar
+Common Code
+
 # Git as Lego
 
 * What did the merge do?
